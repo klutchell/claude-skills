@@ -1,0 +1,11 @@
+{
+  "name": "klutchell-claude-skills",
+  "owner": { "name": "klutchell" },
+  "plugins": [
+    {
+      "name": "balena-tools",
+      "source": "./plugins/balena-tools",
+      "description": "Skills for building and deploying balena fleet projects"
+    }
+  ]
+}

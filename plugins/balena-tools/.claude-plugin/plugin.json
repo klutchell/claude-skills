@@ -1,0 +1,6 @@
+{
+  "name": "balena-tools",
+  "description": "Skills for building and deploying balena fleet projects",
+  "version": "1.0.0",
+  "author": { "name": "klutchell" }
+}
