@@ -21,5 +21,5 @@ Clone the repo and symlink individual skills into `~/.claude/skills/`:
 
 ```bash
 git clone https://github.com/klutchell/claude-skills.git
-ln -s $(pwd)/claude-skills/plugins/balena-tools/skills/balena-dockerfile-templates ~/.claude/skills/balena-dockerfile-templates
+ln -s $(pwd)/claude-skills/plugins/balena-tools/skills/balenify ~/.claude/skills/balenify
 ```
